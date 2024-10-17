@@ -1,3 +1,25 @@
+HW1: Explores the Flash Crash of 2010. A constant participation algorithm went rogue, draining liquidity and triggering a market collapse. Simulates how simple random orders impact market dynamics.
+
+HW2: Covers the Parlour Model, explaining how traders balance limit vs market orders based on liquidity. You’ll also learn how trading fees, volatility, and liquidity determine optimal order sizes on different exchanges.
+
+HW3: Dive into limit order book dynamics! Simulate market events to understand how liquidity shapes the order book. Plus, analyze how realized spreads vary across exchanges and impact market maker profitability.
+
+HW4: The Glosten-Milgrom model shows how market makers adjust spreads to defend against informed traders. Learn how bid-ask spreads change based on the risk of adverse selection.
+
+HW5: Kyle’s Model explores how large trades impact prices. Also, what happens when another trader piggybacks on an informed trader’s orders? Spoiler: it dilutes profitability!
+
+HW6: Compare different volatility estimators and see how frequency impacts their accuracy. You’ll also witness the Epps Effect, which shows how stock correlations decrease over shorter time intervals.
+
+HW7: Investigate long memory processes. These models show how past order flow influences future trades. Learn how to forecast market trends using autoregressive models.
+
+HW8: Predict order flow by analyzing how meta orders break into smaller slices. Plus, a deep dive into price manipulation strategies and why certain trade tactics can distort market prices.
+
+HW9: Study Almgren-Chriss and compare optimal trading strategies under different price dynamics. Learn how to balance market impact and risk in real-world trading.
+
+HW10:  Focuses on solving the Fredholm equation numerically using matrix algebra and finding the optimal liquidation strategy in the square-root price impact model. The tasks include deriving matrix expressions, optimizing liquidation strategies across multiple intervals, and
+
+
+
 # MTH9879-Market-Microstructure-Models
 ## Homework Collection: Market Microstructure Models
 MTH9879 Market Microstructure Models is a graduate course for students of Baruch MFE Program. All homeworks is done in Jupyter Notebook with R.
